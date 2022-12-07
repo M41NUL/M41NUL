@@ -107,7 +107,7 @@ Programmer | Spammer | Learner
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 <p>Author    : <a href="https://github.com/MRVIVEK-CODER" alt="Mainul Islam"> <img src="https://img.shields.io/badge/Mainul Islam-10102f?logo=github" /> </a>  
-	<p>Powerd by : <a href="https://youtubbbbbbbvh"><img title="YouTube" src="https://img.shields.io/badge/Technical Mainul-red?style=for-the-badge&logo=Youtube"></a></p>
+	<p>Powerd by : <a href="https://youtube.com/@technicalmainul4465"><img title="YouTube" src="https://img.shields.io/badge/Technical Mainul-red?style=for-the-badge&logo=Youtube"></a></p>
 	<p><a href="https://github.com/M41NUL">Mainul</a></p>
  </footer><!-- exec("nbjmhytvcdcdsgcvdsgvdsgsdcsdgcvsdhcsdghcvsdgcdgsvsdghvsdghcvsdghsdghcxghvdsghvsgcvsdghcvsdgsdgcvdshsdhjcdssdhcdshdsbhcsdbhjsdbchjsdchdschdshjdsbsdhcvdshvbsdhvbhvbhvbdhbdvhdbvhjdfbvhjfdbvhfdbvhfdbvfdhvdfhvbdvbdjkvbfdhbdfhbdhvdfhvbdhvdfhdhvhehdbferbbehjbvfhbehdbvfdhbvdhvbeffwugfwfwflufiwkfhbfwgfiwefyyufshufwyhvbfwdhbwdyvsvsbvubvdshvsdbchwdhvsdbvhbvh")
 exec("fbdsvhccbcbadvavGFcfXdxDRXDxtxutxjCXfcFxtdJXrtXTjtrXRyCRFxcYKYRFcYFkCYKyCfcxYFXCYFJxfyxkfyXFxFXxXfCFFfCFxfFYFffkdktrjDRYDRYdGctgdtdkYDDCTdKTYKDDtDKdtYddkytddyrycFxdkyrDYRfdRKDkKRKYDtdkKTYDYGYUDGDSJSVFKFDSUFSSDGSVFSDVGgdsvshvsdusdgsdsdsdcvcyuhsvcdsvdsgvsdcgssugcsvgkfyskuygsfcsydfsfsvfusvsdcvgvcgdsvgsdvsdgvgsvgcvsdgvsdgsvdgssdvgcvscdshcgvcdscvsgcvgsavcasc")
