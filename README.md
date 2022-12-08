@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=22&color=30FF40&background=000000&center=true&vCenter=true&width=290&height=80&lines=Fuck+The+World)](https://git.io/typing-svg)
+#  W E L C O M E <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## M A I N U L I S L A M            
+( B A N G L A D E S H 🇧🇩 )👋  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 😻ASSALAMU WALAIKUM😻
 
@@ -6,18 +8,8 @@ HI I'M MAINUL ISLAM🤟
 
 WELCOME TO MY PROFILE🖤🥀
 
-
 Programmer | Spammer | Learner
-
-===============================
-
-🎫 For More Contact Me :- 👇👇
-
-👉 Wp :- +8801308850528
-
-👉 Gmail :-mainulislam4266@gmail.com
-
-👉Facebook I'd :-  https://www.facebook.com/ALVEE.MAINUL.ISLAM 
+<img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="90%">
 
 <img src="https://github.com/M41NUL/Itz-Mainul/blob/main/Itz%20Mainul.jpg " width="300%">
 
