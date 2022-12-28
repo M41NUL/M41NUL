@@ -61,7 +61,7 @@ Programmer | Spammer | Learner
 
 <a href="https://twitter.com/mainul_islam_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mainul_islam_12" height="30" width="40" /></a>
 
-<a href="https://www.facebook.com/ALVEE.MAINUL.ISLAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ALVEE.MAINUL.ISLAM" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ALVEE.MAINUL.ISLAM.59K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md Mainul Islam" height="30" width="40" /></a>
 
 <a href="https://instagram.com/mainul_islam_420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mainul_islam_420/" height="30" width="40" /></a>
 
@@ -104,7 +104,7 @@ Programmer | Spammer | Learner
 
 <p>🔹 Author : <a href="https://github.com/M41NUL" alt="Mainul Islam"> <img src="https://img.shields.io/badge/Mainul Islam-10102f?logo=github" /> </a>  
 <p>🔸 Powerd by : <a href="https://youtube.com/@technicalmainul4465"><img title="YouTube" src="https://img.shields.io/badge/Technical Mainul-red?style=for-the-badge&logo=Youtube"></a></p>
-		       <a href="https://facebook.com/ALVEE.MAINUL.ISLAM"><img title="Facebook" src="https://img.shields.io/badge/Facebook I'd-white?style=for-the-badge&logo=Facebook"></a></p>
+		       <a href="https://facebook.com/ALVEE.MAINUL.ISLAM.59K"><img title="Facebook" src="https://img.shields.io/badge/Facebook I'd-white?style=for-the-badge&logo=Facebook"></a></p>
 		       <a href="https://facebook.com/Itsmainulislam4266"><img title="Facebook" src="https://img.shields.io/badge/Facebook Page-white?style=for-the-badge&logo=Facebook"></a></p>
 		       <a href="https://wa.me/+8801308850528?text"><img title="Whatsapp" src="https://img.shields.io/badge/Mainul Islam(wp)-white?style=for-the-badge&logo=Whatsapp"></a></p>
 	<p><a href="https://github.com/M41NUL">Mainul</a></p>
