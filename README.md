@@ -1,12 +1,12 @@
 #  W E L C O M E <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 #  M A I N U L - I S L A M            
-( B A N G L A D E S H 🇧🇩 )👋  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+( B A N G L A D E S H 🇧🇩 )🔎 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-😻ASSALAMU WALAIKUM😻
+😻 ASSALAMU WALAIKUM 😻
 
-HI I'M MAINUL ISLAM🤟
+HI I'M MAINUL ISLAM 🤟
 
-WELCOME TO MY PROFILE🖤🥀
+WELCOME TO MY PROFILE 🖤🥀
 
 Programmer | Spammer | Learner
 <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="90%">
