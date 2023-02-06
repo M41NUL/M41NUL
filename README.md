@@ -2,6 +2,9 @@
 #  M A I N U L - I S L A M            
 ( B A N G L A D E S H 🇧🇩 )🔎 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=22&color=30FF40&background=000000&center=true&vCenter=true&width=290&height=80&lines=Hello++World%2C+I'm++Mainul++Islam;Follow++My++GitHub++Account;Thanks++My++All++Friend++Vai-brothers)](https://git.io/typing-svg)
+
+
 😻 ASSALAMU WALAIKUM 😻
 
 HI I'M MAINUL ISLAM 🤟
@@ -39,8 +42,6 @@ Programmer | Spammer | Learner
 
 - ![Profile views](https://gpvc.arturio.dev/M41NUL)
 - [![GitHub followers](https://img.shields.io/github/followers/M41NUL.svg?style=social&label=Follow&maxAge=0098900)](https://github.com/M41NUL?tab=followers)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=22&color=30FF40&background=000000&center=true&vCenter=true&width=290&height=80&lines=Hello++World%2C+I'm++Mainul++Islam;Follow++My++GitHub++Account;Thanks++My++All++Friend++Vai-brothers)](https://git.io/typing-svg)
 
 
 >👉 GITHUB STATES :
