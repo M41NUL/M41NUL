@@ -38,8 +38,7 @@ Programmer | Spammer | Learner
 
 >👉 PROFILE VISITORS :
 
-![Visitor Count](https://profile-counter.glitch.me/M41NUL/count.svg)
-
+- ![Visitor Count](https://profile-counter.glitch.me/M41NUL/count.svg)
 - ![Profile views](https://gpvc.arturio.dev/M41NUL)
 - [![GitHub followers](https://img.shields.io/github/followers/M41NUL.svg?style=social&label=Follow&maxAge=0098900)](https://github.com/M41NUL?tab=followers)
 
