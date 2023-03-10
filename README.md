@@ -146,5 +146,5 @@ Programmer | Spammer | Learner
 		       <a href="https://wa.me/+8801308850528?text"><img title="Whatsapp" src="https://img.shields.io/badge/Mainul Islam(wp)-white?style=for-the-badge&logo=Whatsapp"></a></p>
 	<p><a href="https://github.com/M41NUL">Mainul</a></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000&center=true&vCenter=true&width=310&height=90&lines=Contact+me+if+you+have+any+problem☺️;My+WhatsApp+number;💁‍♂️01308850528;And+everyone+will+support+me;Thanks+Everyone😍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000&center=true&vCenter=true&width=390&height=40&lines=Contact+me+if+you+have+any+problem☺️;My+WhatsApp+number;💁‍♂️01308850528;And+everyone+will+support+me;Thanks+Everyone😍)](https://git.io/typing-svg)
 
