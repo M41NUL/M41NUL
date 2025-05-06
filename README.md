@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm MAINUL - X</h1>
 <p align="center">
+  <img src="https://your-logo-url-here.png" width="200" alt="MAINUL-X Logo" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Python+CLI+Tool+Developer;Termux+User+%7C+Pydroid3+Coder;Open-Source+Security+Enthusiast" alt="Typing SVG" />
 </p>
 
@@ -19,7 +23,7 @@
 | Tool              | Description                                      | Language   |
 |-------------------|--------------------------------------------------|------------|
 | **MAINUL-X**       | Bengali SMS Bomber with working BD APIs         | Python     |
-| **PyEncoder-Pro**  | Encode Python using 5+ methods (Marshal, Hex)   | Python     |
+| **PyEncoder-Pro**  | Encode Python using 5+ methods (Marshal, Hex)    | Python     |
 | **GitHub Uploader**| Upload files from Termux or Pydroid3 to GitHub  | Python/Shell |
 | **Decoder Tool**   | Decode encoded .py/.pyc files with brute-force  | Python     |
 
@@ -60,12 +64,17 @@
 
 ---
 
+## 📍 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=M41NUL&color=brightgreen)
+
+---
+
 ## ☕ Connect With Me
 
 - **Telegram**: [@MAINUL - X](https://t.me/@mdmainulislaminfo)
 - **WhatsApp**: [+8801308850528](https://wa.me/+8801308850528)
 - **GitHub**: [github.com/M41NUL](https://github.com/M41NUL)
-- **Email**: `nextleveldigitalbd@gmail.com
+- **Email**: `nextleveldigitalbd@gmail.com`
 
 ---
 
