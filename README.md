@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm MAINUL - X</h1>
 <p align="center">
-  <img src="https://your-logo-url-here.png" width="200" alt="MAINUL-X Logo" />
+  <img src="https://ibb.co/ksjRnv2f" width="200" alt="MAINUL-X Logo" />
 </p>
 
 <p align="center">
