@@ -88,7 +88,7 @@
   <a href="https://t.me/mdmainulislaminfo" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://instagram.com/M41NUL" target="_blank">
+  <a href="https://instagram.com/mdmainulislaminfo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://wa.me/8801308850528" target="_blank">
