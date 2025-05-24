@@ -1,6 +1,10 @@
-<h1 align="center">Hi, I'm MAINUL - X</h1>
+<h1 align="center">✨ Hi, I'm <strong>MAINUL - X</strong> 🚀</h1>
+<p align="center"><i>Welcome to my GitHub profile! Let's create amazing things together. 💻🔥</i></p>
+
 <p align="center">
-  <img src="https://ibb.co/ksjRnv2f" width="200" alt="MAINUL-X Logo" />
+  <img src="https://i.ibb.co/gLk5vdfY/Picsart-25-04-03-17-15-54-276.jpg" width="200" />
+  <img src="https://i.ibb.co/fdK7MKM6/Picsart-24-10-10-17-24-48-577.jpg" width="200" />
+  <img src="https://i.ibb.co/svYk9Z73/Picsart-25-01-28-02-15-08-642.jpg" width="200" />
 </p>
 
 <p align="center">
@@ -11,21 +15,29 @@
 
 ## 🔥 About Me
 
-- **Name:** Mainul
-- **Username:** `M41NUL`
-- **Expertise:** Python Automation, Termux Tools, GitHub Integration
-- **Favorite Tools:** Encoding, Bombers, Uploader Bots, Login Systems
-
+- **Name:** Mainul Islam  
+- **Alias:** `MAINUL - X`  
+- **GitHub Username:** [`M41NUL`](https://github.com/M41NUL)  
+- **Passion:** Python Automation, Ethical Hacking, Cybersecurity Tools  
+- **Expertise:**  
+  - Termux-based CLI Tool Development  
+  - Pydroid3 Scripting & Python Packaging  
+  - GitHub Integration & Open-Source Projects  
+- **Favorite Creations:**  
+  - Python Encoders & Decoders  
+  - SMS Bombers with BD APIs  
+  - Auto Uploader Bots & Secure Login Systems  
+- **Motto:** *“Code like a hacker, think like a developer.”*
 ---
 
-## 🚀 My Top Projects
+## 🚀 Top Projects
 
-| Tool              | Description                                      | Language   |
-|-------------------|--------------------------------------------------|------------|
-| **MAINUL-X**       | Bengali SMS Bomber with working BD APIs         | Python     |
-| **PyEncoder-Pro**  | Encode Python using 5+ methods (Marshal, Hex)    | Python     |
-| **GitHub Uploader**| Upload files from Termux or Pydroid3 to GitHub  | Python/Shell |
-| **Decoder Tool**   | Decode encoded .py/.pyc files with brute-force  | Python     |
+| ⚙️ Tool            | 📄 Description                                      | 🛠️ Language   |
+|-------------------|------------------------------------------------------|---------------|
+| **MAINUL-X**       | Bengali SMS Bomber with working BD APIs             | Python        |
+| **PyEncoder-Pro**  | Encode Python using 5+ methods (Marshal, Hex, etc.) | Python        |
+| **GitHub Uploader**| Upload files from Termux/Pydroid3 to GitHub         | Python/Shell  |
+| **Decoder Tool**   | Decode encoded `.py`/`.pyc` with brute-force logic  | Python        |
 
 ---
 
@@ -39,7 +51,7 @@
 
 ---
 
-## ✨ GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M41NUL&show_icons=true&theme=radical" width="400">
@@ -48,7 +60,7 @@
 
 ---
 
-## 🧠 My GitHub Trophy
+## 🏆 GitHub Trophy
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=M41NUL&theme=onedark&row=1&column=6">
@@ -56,7 +68,7 @@
 
 ---
 
-## 📊 My Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M41NUL&theme=tokyo-night">
@@ -64,18 +76,35 @@
 
 ---
 
-## 📍 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=M41NUL&color=brightgreen)
+## 👀 Profile Views
+
+![Visitors](https://komarev.com/ghpvc/?username=M41NUL&color=brightgreen)
 
 ---
 
 ## ☕ Connect With Me
 
-- **Telegram**: [@MAINUL - X](https://t.me/@mdmainulislaminfo)
-- **WhatsApp**: [+8801308850528](https://wa.me/+8801308850528)
-- **GitHub**: [github.com/M41NUL](https://github.com/M41NUL)
-- **Email**: `nextleveldigitalbd@gmail.com`
+<p align="center">
+  <a href="https://t.me/mdmainulislaminfo" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://instagram.com/M41NUL" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://wa.me/8801308850528" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://github.com/M41NUL" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:nextleveldigitalbd@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
-> “Tools are temporary, but legacy tools are immortal.” – M41NUL
+> **Click any icon to connect — I'm always happy to chat!**  
+> *“Tools are temporary, but legacy tools are immortal.” – M41NUL*
+
+---
