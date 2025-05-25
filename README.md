@@ -8,10 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Python+CLI+Tool+Developer;Termux+User+%7C+Pydroid3+Coder;Open-Source+Security+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=MAINUL+-+X+-+Developer+%7C+Coder+%7C+Security+Lover;Python+CLI+Tool+Expert+%7C+Termux+Specialist;Crafting+Fast+%26+Minimal+Tools+for+Everyday+Hackers" alt="Typing SVG" />
 </p>
-
----
 
 ## 🔥 About Me
 
