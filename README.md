@@ -22,7 +22,7 @@
 
 - **Name:** Mainul Islam  
 - **Alias:** `MAINUL - X` | `M41NUL`  
-- **Location:** Barishal-Barguna-Kakchira, Bangladesh 🇧🇩  
+- **Location:** Bangladesh 🇧🇩  
 - **Passion:** Python Automation, Ethical Hacking, Cybersecurity Tools  
 - **Mission:** Building next-gen security tools with Python
 - **Focus:** Termux/Linux automation & ethical hacking solutions
