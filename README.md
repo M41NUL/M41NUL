@@ -1,5 +1,6 @@
-<h1 align="center">✨ Hi, I'm <strong>MAINUL - X</strong> 🚀</h1>
-<p align="center"><i>Welcome to my GitHub profile! Let's create amazing things together. 💻🔥</i></p>
+<h1 align="center">Hi, I'm <strong>MAINUL - X</strong></h1>
+<p align="center"><i>Building next-gen security tools with Python ⚡ | Termux/Linux automation 🐧</i></p>
+<p align="center"><i>Welcome to my GitHub profile! Let's create amazing things together. 🤝🔥</i></p>
 
 <p align="center">
   <img src="https://i.ibb.co/gLk5vdfY/Picsart-25-04-03-17-15-54-276.jpg" width="200" />
@@ -10,15 +11,30 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg" />
+  <img src="https://img.shields.io/badge/Profile%20Views-22.9k-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="views" />
 </p>
 
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="560"
-    alt="Developer Animation"
-  />
+  <img src="https://img.shields.io/badge/Nationality-Bangladeshi-006a4e?style=for-the-badge&logo=google-maps&logoColor=white" alt="nation" />
+  <img src="https://img.shields.io/badge/Role-Python%20Developer-2E97F7?style=for-the-badge&logo=python&logoColor=white" alt="role" />
+  <img src="https://img.shields.io/badge/Team-MAINUL%20--%20X-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="team" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg" />
+</p>
+
+## 🎥 Developer Animations
+
+<!-- আপনার পছন্দের GIF গুলো এখানে দিন -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/l41YtZObHrKrqxHwI/giphy.gif" width="400" />
 </p>
 
 ## 📈 Advanced Stats (Daily Updated • Auto)
@@ -65,15 +81,17 @@
 ---
 
 ## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M41NUL&theme=matrix&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=M41NUL&theme=matrix&no-frame=true&row=2&column=3" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M41NUL&theme=highcontrast&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M41NUL&theme=highcontrast&hide_border=true" />
 </p>
 
 ---
@@ -93,11 +111,14 @@
 ---
 
 ## 🐍 Contribution Snake (Auto)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/M41NUL/M41NUL/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M41NUL/M41NUL/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M41NUL/M41NUL/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/M41NUL/M41NUL/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ## 🔥 About Me
 
@@ -109,6 +130,14 @@
 - **Focus:** Termux/Linux automation & ethical hacking solutions
 - **Vision:** Making cybersecurity accessible for everyone
 - **Motto:** *"Code like a hacker, think like a developer."*
+
+## 🎯 Vision
+
+<p align="center">
+  🤖 Build reliable open-source bot ecosystems<br />
+  🇧🇩 Help Bangladeshi developers grow<br />
+  🔐 Create secure & scalable automation tools
+</p>
 
 ## 🛠 Tech Stack & Skills
 
@@ -123,11 +152,11 @@
 ## 📈 Skill Level
 
 <p align="center">
-  <img src="https://progress-bar.dev/90/?title=Python">
-  <img src="https://progress-bar.dev/80/?title=Bash">
-  <img src="https://progress-bar.dev/75/?title=HTML">
-  <img src="https://progress-bar.dev/70/?title=Linux">
-  <img src="https://progress-bar.dev/65/?title=Git">
+  <img src="https://progress-bar.xyz/90/?title=Python" />
+  <img src="https://progress-bar.xyz/80/?title=Bash" />
+  <img src="https://progress-bar.xyz/75/?title=HTML" />
+  <img src="https://progress-bar.xyz/70/?title=Linux" />
+  <img src="https://progress-bar.xyz/65/?title=Git" />
 </p>
 
 ---
@@ -171,17 +200,23 @@
   <a href="https://github.com/M41NUL/YTP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=M41NUL&repo=YTP&theme=radical" />
   </a>
-  <a href="https://github.com/M41NUL/mainul-x-encoder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M41NUL&repo=mainul-x-encoder&theme=radical" />
+  <a href="https://github.com/M41NUL/telegram_sms_bomber_bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M41NUL&repo=telegram_sms_bomber_bot&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/M41NUL/bd-sms-blitz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M41NUL&repo=bd-sms-blitz&theme=radical" />
+  <a href="https://github.com/M41NUL/titan-x-bomber">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M41NUL&repo=titan-x-bomber&theme=radical" />
   </a>
-  <a href="https://github.com/M41NUL/telegram_sms_bomber_bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M41NUL&repo=telegram_sms_bomber_bot&theme=radical" />
+  <a href="https://github.com/M41NUL/social-server-bd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M41NUL&repo=social-server-bd&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/M41NUL/ramadan-tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M41NUL&repo=ramadan-tool&theme=radical" />
   </a>
 </p>
 
@@ -224,7 +259,3 @@
 > *Making cybersecurity accessible for everyone"*  
 >
 > *“Tools are temporary, but legacy tools are immortal.” – M41NUL*
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M41NUL&color=brightgreen&style=flat-square&label=Profile+Views" alt="Visitors">
-</p>
