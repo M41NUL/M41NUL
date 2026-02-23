@@ -4,29 +4,32 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
-    runs-on: ubuntu-latest
     permissions:
       contents: write
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
 
-      - name: Generate Snake
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: M41NUL
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
 
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push generated SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          personal_token: ${{ secrets.GH_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          destination_dir: ./
-          force_orphan: true
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
