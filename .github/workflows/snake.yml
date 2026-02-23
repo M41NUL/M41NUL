@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # দৈনিক 12:00 AM UTC
   workflow_dispatch:
   push:
     branches:
@@ -10,14 +10,17 @@ on:
 
 jobs:
   build:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v4
+      # Checkout repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
+      # Generate snake SVGs
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
@@ -26,10 +29,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
+      # Push to output branch (root of branch)
       - name: Push generated SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          destination_dir: ./   # ROOT এ push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
