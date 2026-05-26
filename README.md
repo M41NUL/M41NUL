@@ -96,16 +96,12 @@
 
 ---
 
-## 🟡 Pac-Man Contribution Graph (Auto)
+## 📊 GitHub Stats
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/M41NUL/M41NUL/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/M41NUL/M41NUL/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph"
-      src="https://raw.githubusercontent.com/M41NUL/M41NUL/output/pacman-contribution-graph.svg">
-  </picture>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M41NUL&theme=github)
+
 </div>
 
 ---
