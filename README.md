@@ -248,7 +248,9 @@
 
 ---
 
-Keywords: CODEX-M41NUL, M41NUL, MAINUL-X, Mainul Islam, Python Developer, Termux Developer, Cybersecurity Researcher, Open Source Developer.
+## 🔍 Search Keywords
+
+`CODEX-M41NUL` • `M41NUL` • `MAINUL-X` • `Mainul Islam` • `Python Developer` • `Termux Developer` • `Cybersecurity Researcher` • `Open Source Developer`
 
 ---
 > **Click any icon to connect — I'm always happy to chat!**  
