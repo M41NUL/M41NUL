@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <strong>MAINUL - X</strong></h1>
+<h1 align="center">Hi, I'm <strong>𝐂𝐎𝐃𝐄𝐗-𝐌𝟒𝟏𝐍𝐔𝐋</strong></h1>
 <p align="center"><i>Building next-gen security tools with Python ⚡ | Termux/Linux automation 🐧</i></p>
 <p align="center"><i>Welcome to my GitHub profile! Let's create amazing things together. 🤝🔥</i></p>
 
@@ -119,7 +119,7 @@
 ## 🔥 About Me
 
 - **Name:** Mainul Islam  
-- **Alias:** `MAINUL - X` | `M41NUL`  
+- **Alias:** `𝐂𝐎𝐃𝐄𝐗-𝐌𝟒𝟏𝐍𝐔𝐋` | `M41NUL`  
 - **Location:** Bangladesh 🇧🇩  
 - **Passion:** Python Automation, Ethical Hacking, Cybersecurity Tools  
 - **Mission:** Building next-gen security tools with Python
