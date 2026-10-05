@@ -10,111 +10,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+next-gen+security+tools+with+Python;Focus+on+Termux%2FLinux+automation+%26+ethical+hacking;Making+cybersecurity+accessible+for+everyone" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-22.9k-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Nationality-Bangladeshi-006a4e?style=for-the-badge&logo=google-maps&logoColor=white" alt="nation" />
-  <img src="https://img.shields.io/badge/Role-Python%20Developer-2E97F7?style=for-the-badge&logo=python&logoColor=white" alt="role" />
-  <img src="https://img.shields.io/badge/Team-MAINUL%20--%20X-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="team" />
-</p>
+<div align="center">
+<table>
+  <tr><th align="center">👤 Profile Card</th></tr>
+  <tr><td align="center">
+    <img src="https://komarev.com/ghpvc/?username=M41NUL&label=Profile%20Views&color=FF6F00&style=flat-square" alt="Profile Views" />
+    <br />
+    <img src="https://img.shields.io/badge/Nationality-Bangladeshi-006a4e?style=flat-square&logo=google-maps&logoColor=white" alt="nation" />
+    <img src="https://img.shields.io/badge/Role-Python%20Developer-2E97F7?style=flat-square&logo=python&logoColor=white" alt="role" />
+    <img src="https://img.shields.io/badge/Team-CODEX%20MAINUL-FF6F00?style=flat-square&logo=github&logoColor=white" alt="team" />
+  </td></tr>
+</table>
+</div>
 
 <p align="center">
   <img src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg" />
 </p>
-
-## 🎥 Developer Animations
-
-<!-- আপনার পছন্দের GIF গুলো এখানে দিন -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" />
-  <img src="https://media.giphy.com/media/l41YtZObHrKrqxHwI/giphy.gif" width="400" />
-</p>
-
-## 📈 Advanced Stats (Daily Updated • Auto)
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M41NUL/github_stats/main/generated/overview.svg#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M41NUL/github_stats/main/generated/overview.svg#gh-light-mode-only">
-    <img alt="GitHub Overview Stats" src="https://raw.githubusercontent.com/M41NUL/github_stats/main/generated/overview.svg">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M41NUL/github_stats/main/generated/languages.svg#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M41NUL/github_stats/main/generated/languages.svg#gh-light-mode-only">
-    <img alt="GitHub Language Stats" src="https://raw.githubusercontent.com/M41NUL/github_stats/main/generated/languages.svg">
-  </picture>
-</p>
-
----
-
-## 🧰 Tech Stack & Skills
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="py" />
-  <img src="https://img.shields.io/badge/JavaScript-Node.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />
-</p>
-
-### ⚙️ Frameworks & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/yt--dlp-Downloader-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="yt-dlp" />
-  <img src="https://img.shields.io/badge/Rich-CLI%20UI-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="rich" />
-  <img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github" alt="github" />
-  <img src="https://img.shields.io/badge/Termux-Android-000000?style=for-the-badge&logo=android&logoColor=green" alt="termux" />
-  <img src="https://img.shields.io/badge/Linux-Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
-</p>
-
-### ☁️ Hosting & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Render-Hosting-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="render" />
-  <img src="https://img.shields.io/badge/Cloudflare-DNS%20%26%20Security-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M41NUL&theme=matrix&no-frame=true&row=2&column=3" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M41NUL&theme=highcontrast&hide_border=true" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M41NUL&theme=github)
-
-</div>
-
----
-
-## 🐍 Contribution Snake (Auto)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M41NUL/M41NUL/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M41NUL/M41NUL/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/M41NUL/M41NUL/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ## 🔥 About Me
 
@@ -135,15 +46,41 @@
   🔐 Create secure & scalable automation tools
 </p>
 
-## 🛠 Tech Stack & Skills
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,bash,git,linux,vscode,github&perline=11" />
-  </a>
-</p>
-
 ---
+
+## 🧰 Tech Stack & Skills
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="py" />
+      <img src="https://img.shields.io/badge/Node.js-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="js" />
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="bash" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="yt-dlp" />
+      <img src="https://img.shields.io/badge/Rich-FF6F00?style=flat-square&logo=python&logoColor=white" alt="rich" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="github" />
+      <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=green" alt="termux" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="linux" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ Hosting</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="render" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="cloudflare" />
+    </td>
+  </tr>
+</table>
+</div>
 
 ## 📈 Skill Level
 
@@ -175,21 +112,6 @@
 | **[mainul.9-10-id-cloner](https://github.com/M41NUL/mainul.9-10-id-cloner)** | ID Cloning Tool | Python | ![GitHub Stars](https://img.shields.io/github/stars/M41NUL/mainul.9-10-id-cloner?style=social) |
 | **[YTP](https://github.com/M41NUL/YTP)** | YouTube Downloader Pro | Python | ![GitHub Stars](https://img.shields.io/github/stars/M41NUL/YTP?style=social) |
 
-## 🔄 Recent GitHub Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M41NUL&theme=tokyo-night&hide_border=true&area=true">
-</p>
-
----
-
 ## 📌 Pinned Repositories
 
 <p align="center">
@@ -218,6 +140,78 @@
 
 ---
 
+## 📈 Advanced Stats (Daily Updated • Auto)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M41NUL/github_stats/main/generated/overview.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M41NUL/github_stats/main/generated/overview.svg#gh-light-mode-only">
+    <img alt="GitHub Overview Stats" src="https://raw.githubusercontent.com/M41NUL/github_stats/main/generated/overview.svg">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M41NUL/github_stats/main/generated/languages.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M41NUL/github_stats/main/generated/languages.svg#gh-light-mode-only">
+    <img alt="GitHub Language Stats" src="https://raw.githubusercontent.com/M41NUL/github_stats/main/generated/languages.svg">
+  </picture>
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M41NUL&theme=github)
+
+</div>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M41NUL&theme=highcontrast&hide_border=true" />
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=M41NUL&theme=matrix&no-frame=true&row=2&column=3" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M41NUL&theme=tokyo-night&hide_border=true&area=true">
+</p>
+
+## 🐍 Contribution Snake (Auto)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M41NUL/M41NUL/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M41NUL/M41NUL/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/M41NUL/M41NUL/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+## 🔄 Recent GitHub Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+---
+
+## 🎥 Developer Animations
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/l41YtZObHrKrqxHwI/giphy.gif" width="400" />
+</p>
+
+---
+
 ## 🎯 Current Stats
 
 <p align="center">
@@ -228,23 +222,17 @@
 
 ## ☕ Connect With Me
 
-<p align="center">
-  <a href="https://t.me/mdmainulislaminfo" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://instagram.com/mdmainulislaminfo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://wa.me/8801308850528" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <a href="https://github.com/M41NUL" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:githubmainul@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+<div align="center">
+<table>
+  <tr><td align="center">
+    <a href="https://t.me/mdmainulislaminfo" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"> </a>
+    <a href="https://instagram.com/mdmainulislaminfo" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"> </a>
+    <a href="https://wa.me/8801308850528" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"> </a>
+    <a href="https://github.com/M41NUL" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"> </a>
+    <a href="mailto:githubmainul@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"> </a>
+  </td></tr>
+</table>
+</div>
 
 ---
 
@@ -253,10 +241,6 @@
 `CODEX-M41NUL` • `M41NUL` • `MAINUL-X` • `Mainul Islam` • `Python Developer` • `Termux Developer` • `Cybersecurity Researcher` • `Open Source Developer`
 
 ---
-> **Click any icon to connect — I'm always happy to chat!**  
-> 
-> *"Building next-gen security tools with Python*  
-> *Focus on Termux/Linux automation & ethical hacking solutions*  
-> *Making cybersecurity accessible for everyone"*  
+> **Click any icon to connect — I'm always happy to chat!**
 >
 > *“Tools are temporary, but legacy tools are immortal.” – M41NUL*
