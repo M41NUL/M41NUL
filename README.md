@@ -1,146 +1,50 @@
-<h1 align="center">Hi, I'm <strong>𝐂𝐎𝐃𝐄𝐗-𝐌𝟒𝟏𝐍𝐔𝐋</strong></h1>
-<p align="center"><i>Building next-gen security tools with Python ⚡ | Termux/Linux automation 🐧</i></p>
-<p align="center"><i>Welcome to my GitHub profile! Let's create amazing things together. 🤝🔥</i></p>
+<h1 align="center">Hi, I'm <strong>Mainul's Sandbox</strong> 👋</h1>
+<p align="center"><i>Independent developer from Bangladesh 🇧🇩 — Python automation, Telegram bots & web tools</i></p>
 
 <p align="center">
-  <img src="https://i.ibb.co/gLk5vdfY/Picsart-25-04-03-17-15-54-276.jpg" width="200" />
+  <img src="https://i.ibb.co/gLk5vdfY/Picsart-25-04-03-17-15-54-276.jpg" width="160" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+next-gen+security+tools+with+Python;Focus+on+Termux%2FLinux+automation+%26+ethical+hacking;Making+cybersecurity+accessible+for+everyone" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+bots+%26+web+tools+with+Python;Termux%2FLinux+automation+enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
-
-<div align="center">
-<table>
-  <tr><th align="center">👤 Profile Card</th></tr>
-  <tr><td align="center">
-    <img src="https://komarev.com/ghpvc/?username=M41NUL&label=Profile%20Views&color=FF6F00&style=flat-square" alt="Profile Views" />
-    <br />
-    <img src="https://img.shields.io/badge/Nationality-Bangladeshi-006a4e?style=flat-square&logo=google-maps&logoColor=white" alt="nation" />
-    <img src="https://img.shields.io/badge/Role-Python%20Developer-2E97F7?style=flat-square&logo=python&logoColor=white" alt="role" />
-    <img src="https://img.shields.io/badge/Team-CODEX%20MAINUL-FF6F00?style=flat-square&logo=github&logoColor=white" alt="team" />
-  </td></tr>
-</table>
-</div>
 
 <p align="center">
-  <img src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg" />
+  <a href="https://mainulssandbox.vercel.app"><img src="https://img.shields.io/badge/Website-mainulssandbox.vercel.app-00F7FF?style=flat-square&logo=vercel&logoColor=white" alt="website" /></a>
 </p>
+
+---
 
 ## 🔥 About Me
 
-- **Name:** Mainul Islam  
-- **Alias:** `𝐂𝐎𝐃𝐄𝐗-𝐌𝟒𝟏𝐍𝐔𝐋` | `M41NUL`  
-- **Location:** Bangladesh 🇧🇩  
-- **Passion:** Python Automation, Ethical Hacking, Cybersecurity Tools  
-- **Mission:** Building next-gen security tools with Python
-- **Focus:** Termux/Linux automation & ethical hacking solutions
-- **Vision:** Making cybersecurity accessible for everyone
-- **Motto:** *"Code like a hacker, think like a developer."*
+- **Name:** Md. Mainul Islam
+- **Location:** Bangladesh 🇧🇩
+- **Focus:** Python automation, Telegram bots, web tools, Termux/Linux
 
-## 🎯 Vision
+## 🧰 Tech Stack
 
-<p align="center">
-  🤖 Build reliable open-source bot ecosystems<br />
-  🇧🇩 Help Bangladeshi developers grow<br />
-  🔐 Create secure & scalable automation tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="py" />
+  <img src="https://img.shields.io/badge/Node.js-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="js" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="bash" />
+  <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=green" alt="termux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="render" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="cloudflare" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="netlify" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="railway" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="linux" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="vscode" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="firebase" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="json" />
 </p>
-
----
-
-## 🧰 Tech Stack & Skills
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><b>💻 Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="py" />
-      <img src="https://img.shields.io/badge/Node.js-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="js" />
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="bash" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="yt-dlp" />
-      <img src="https://img.shields.io/badge/Rich-FF6F00?style=flat-square&logo=python&logoColor=white" alt="rich" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="github" />
-      <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=green" alt="termux" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="linux" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>☁️ Hosting</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="render" />
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="cloudflare" />
-    </td>
-  </tr>
-</table>
-</div>
-
-## 📈 Skill Level
-
-<p align="center">
-  <img src="https://progress-bar.xyz/90/?title=Python" />
-  <img src="https://progress-bar.xyz/80/?title=Bash" />
-  <img src="https://progress-bar.xyz/75/?title=HTML" />
-  <img src="https://progress-bar.xyz/70/?title=Linux" />
-  <img src="https://progress-bar.xyz/65/?title=Git" />
-</p>
-
----
-
-## 🚀 My Projects & Tools
-
-| ⚙️ Tool | 📄 Description | 🛠️ Language | ⭐ Stars |
-| :--- | :--- | :--- | :--- |
-| **[telegram_sms_bomber_bot](https://github.com/M41NUL/telegram_sms_bomber_bot)** | Telegram SMS Bomber Bot | HTML | ![GitHub Stars](https://img.shields.io/github/stars/M41NUL/telegram_sms_bomber_bot?style=social) |
-| **[QR-CODE-GENERATOR](https://github.com/M41NUL/QR-CODE-GENERATOR)** | Fast, Free & Premium QR Code Generator | HTML | ![GitHub Stars](https://img.shields.io/github/stars/M41NUL/QR-CODE-GENERATOR?style=social) |
-| **[social-server-bd](https://github.com/M41NUL/social-server-bd)** | TikTok, Instagram, Facebook Downloader API | HTML | ![GitHub Stars](https://img.shields.io/github/stars/M41NUL/social-server-bd?style=social) |
-| **[bd-sms-blitz](https://github.com/M41NUL/bd-sms-blitz)** | BD SMS bomber using public Bangladesh APIs | Python | ![GitHub Stars](https://img.shields.io/github/stars/M41NUL/bd-sms-blitz?style=social) |
-| **[mainul-x-uploader](https://github.com/M41NUL/mainul-x-uploader)** | Upload files to GitHub from Termux/Pydroid3 | Python | ![GitHub Stars](https://img.shields.io/github/stars/M41NUL/mainul-x-uploader?style=social) |
-| **[internet-speed-meter](https://github.com/M41NUL/internet-speed-meter)** | Speed test tool with live stats & IP info | Python | ![GitHub Stars](https://img.shields.io/github/stars/M41NUL/internet-speed-meter?style=social) |
-| **[mainul-x-toolkit](https://github.com/M41NUL/mainul-x-toolkit)** | All-in-one toolkit for Termux | Python | ![GitHub Stars](https://img.shields.io/github/stars/M41NUL/mainul-x-toolkit?style=social) |
-| **[yt-audio-downloader](https://github.com/M41NUL/yt-audio-downloader)** | YouTube audio downloader tool | Python | ![GitHub Stars](https://img.shields.io/github/stars/M41NUL/yt-audio-downloader?style=social) |
-| **[mainul-x-encoder](https://github.com/M41NUL/mainul-x-encoder)** | Advanced Python script encryption | Python | ![GitHub Stars](https://img.shields.io/github/stars/M41NUL/mainul-x-encoder?style=social) |
-| **[ENCODER_TOOL](https://github.com/M41NUL/ENCODER_TOOL)** | Advanced Python Code Encoder | Python | ![GitHub Stars](https://img.shields.io/github/stars/M41NUL/ENCODER_TOOL?style=social) |
-| **[BD-SMS-BOMBER](https://github.com/M41NUL/BD-SMS-BOMBER)** | Powerful SMS Bomber for Bangladesh | Python | ![GitHub Stars](https://img.shields.io/github/stars/M41NUL/BD-SMS-BOMBER?style=social) |
-| **[mainul.9-10-id-cloner](https://github.com/M41NUL/mainul.9-10-id-cloner)** | ID Cloning Tool | Python | ![GitHub Stars](https://img.shields.io/github/stars/M41NUL/mainul.9-10-id-cloner?style=social) |
-| **[YTP](https://github.com/M41NUL/YTP)** | YouTube Downloader Pro | Python | ![GitHub Stars](https://img.shields.io/github/stars/M41NUL/YTP?style=social) |
-
-## 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/M41NUL/YTP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M41NUL&repo=YTP&theme=radical" />
-  </a>
-  <a href="https://github.com/M41NUL/telegram_sms_bomber_bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M41NUL&repo=telegram_sms_bomber_bot&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/M41NUL/titan-x-bomber">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M41NUL&repo=titan-x-bomber&theme=radical" />
-  </a>
-  <a href="https://github.com/M41NUL/social-server-bd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M41NUL&repo=social-server-bd&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/M41NUL/ramadan-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M41NUL&repo=ramadan-tool&theme=radical" />
-  </a>
-</p>
-
----
 
 ## 📈 Advanced Stats (Daily Updated • Auto)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M41NUL/github_stats/main/generated/overview.svg#gh-dark-mode-only">
@@ -157,90 +61,48 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M41NUL&theme=github)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M41NUL&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M41NUL&theme=highcontrast&hide_border=true" />
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M41NUL&theme=matrix&no-frame=true&row=2&column=3" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M41NUL&theme=tokyo-night&hide_border=true&area=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M41NUL&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🐍 Contribution Snake (Auto)
 
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M41NUL/M41NUL/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M41NUL/M41NUL/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/M41NUL/M41NUL/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-## 🔄 Recent GitHub Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
----
-
-## 🎥 Developer Animations
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" />
-  <img src="https://media.giphy.com/media/l41YtZObHrKrqxHwI/giphy.gif" width="400" />
-</p>
-
----
 
 ## 🎯 Current Stats
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=M41NUL&label=Profile%20Views&color=FF6F00&style=flat-square" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/M41NUL?label=Followers&style=social" alt="GitHub Followers">
   <img src="https://img.shields.io/github/stars/M41NUL?label=Total%20Stars&style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/last-commit/M41NUL/M41NUL?label=Last%20Profile%20Update&style=flat-square" alt="Last Update">
 </p>
 
 ## ☕ Connect With Me
 
-<div align="center">
-<table>
-  <tr><td align="center">
-    <a href="https://t.me/mdmainulislaminfo" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"> </a>
-    <a href="https://instagram.com/mdmainulislaminfo" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"> </a>
-    <a href="https://wa.me/8801308850528" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"> </a>
-    <a href="https://github.com/M41NUL" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"> </a>
-    <a href="mailto:githubmainul@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"> </a>
-  </td></tr>
-</table>
-</div>
+<p align="center">
+  <a href="https://mainulssandbox.vercel.app"><img src="https://img.shields.io/badge/Website-00F7FF?style=flat-square&logo=vercel&logoColor=black" alt="Website" /></a>
+  <a href="https://t.me/mdmainulislaminfo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://wa.me/8801308850528"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.facebook.com/MainulsSandbox"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://x.com/MainulsSandbox"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/_whos_mainul"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@_whos_mainul"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://github.com/M41NUL"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:githubmainul@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
 ---
 
-## 🔍 Search Keywords
-
-`CODEX-M41NUL` • `M41NUL` • `MAINUL-X` • `Mainul Islam` • `Python Developer` • `Termux Developer` • `Cybersecurity Researcher` • `Open Source Developer`
-
----
-> **Click any icon to connect — I'm always happy to chat!**
->
-> *“Tools are temporary, but legacy tools are immortal.” – M41NUL*
+<p align="center"><i>Click any icon to connect — I'm always happy to chat! 🤝</i></p>
